@@ -1,0 +1,450 @@
+[
+    {
+        "title": "Poha",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": "$25.00",
+        "img": "https://nef5.com/wp-content/uploads/2020/07/pohe-img.png",
+        "button": "Add"
+    },
+    {
+        "title": "Dosa",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": "$25.00",
+        "img": "https://www.pikpng.com/pngl/b/564-5648238_dosa-png-images-south-indian-dish-png-clipart.png",
+        "button": "Add"
+    },
+    {
+        "title": "Paratha",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": "$25.00",
+        "img": "https://indibites.in/wp-content/uploads/2021/03/malabar.png",
+        "button": "Add"
+    },
+    {
+        "title": "Juice",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": "$25.00",
+        "img": "http://www.pngall.com/wp-content/uploads/2016/04/Juice-PNG-Clipart.png",
+        "button": "Add"
+    },
+    {
+        "title": "Bread",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": "$25.00",
+        "img": "https://pnghq.com/wp-content/uploads/pnghq.com-bread-png-image-1024x559.png",
+        "button": "Add"
+    },
+    {
+        "title": "Chaumin",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": "$25.00",
+        "img": "https://noveltysweets.co.nz/wp-content/uploads/2021/08/Veg-Chowmein-min.png ",
+        "button": "Add"
+    },
+    {
+        "title": "Pizza",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": "$25.00",
+        "img": " https://static.vecteezy.com/system/resources/previews/021/311/734/original/pizza-transparent-background-png.png",
+        "button": "Add"
+    },
+    {
+        "title": "Aloo tikki",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": "$25.00",
+        "img": " https://www.pngkit.com/png/full/257-2577808_samosachat2-aloo-tikki-of-kanpur.png",
+        "button": "Add"
+    },
+    {
+        "title": "Bhatura",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": "$25.00",
+        "img": " https://pnghq.com/wp-content/uploads/free-no-watermark-chole-bhature-png-images.png",
+        "button": "Add"
+    },
+    {
+        "title": " Veg Biryani",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": "$25.00",
+        "img": " https://www.nicepng.com/png/full/964-9642029_veg-biryani-biryani.png",
+        "button": "Add"
+    },
+    {
+        "title": " Non-Veg Biryani",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": "$25.00",
+        "img": "https://www.nicepng.com/png/full/914-9141005_about-chicken-biryani-ad.png",
+        "button": "Add"
+    },
+    {
+        "title": "Butter chicken",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": "$25.00",
+        "img": " https://static.vecteezy.com/system/resources/previews/025/269/546/original/butter-chicken-with-ai-generated-free-png.png",
+        "button": "Add"
+    },
+    {
+        "title": "Chaat",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": "$25.00",
+        "img": " https://royalpanipuri.com/assets/img/sevpuri.png",
+        "button": "Add"
+    },
+    {
+        "title": "Chapati",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": "$25.00",
+        "img": "https://cafenargun.com/wp-content/uploads/2021/10/Chapati-Recipe-_-How-to-Make-Chapati-_-Quick-Chapati-Recipe.png",
+        "button": "Add"
+    },
+    {
+        "title": "Chicken Tikka",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": "https://static.vecteezy.com/system/resources/previews/027/144/449/original/chicken-tikka-on-background-free-png.png ",
+        "button": "Add"
+    },
+    {
+        "title": "Dal fry",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "price": "$25.00",
+        "img": " https://betterfood.co.uk/app/uploads/2019/02/dal.jpg",
+        "button": "Add"
+    },
+    {
+        "title": "Gajar Pak",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": "https://static.vecteezy.com/system/resources/previews/013/261/290/non_2x/gajar-halwa-canape-tart-free-png.png",
+        "button": "Add"
+    },
+    {
+        "title": "Jalebi",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": "https://nativpantry.com/wp-content/uploads/2021/08/Jalebi-2.png ",
+        "button": "Add"
+    },
+    {
+        "title": "Kadai paneer",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": "https://img1.exportersindia.com/product_images/bc-full/2021/2/2451611/kadhai-paneer-1612786227-5718275.png ",
+        "button": "Add"
+    },
+    {
+        "title": "Kherr",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": " https://www.rainbowmilk.com/_default_upload_bucket/Vermicelli%20Kheer_1.png",
+        "button": "Add"
+    },
+    {
+        "title": "Kofta",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": "http://homecaterers.in/images/inner-page/Veg/curry/Veg_kofta_curry.png",
+        "button": "Add"
+    },
+    {
+        "title": "Matar paneer",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": "https://5.imimg.com/data5/SELLER/Default/2020/12/OF/IO/WV/118452067/desichef-rara-paneer.png ",
+        "button": "Add"
+    },
+    {
+        "title": "Samosha",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": "https://static.vecteezy.com/system/resources/previews/025/269/767/original/samosa-with-ai-generated-free-png.png ",
+        "button": "Add"
+    },
+    {
+        "title": "Kachori",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": " https://pak-sweets.com/img/daal_kachori.png",
+        "button": "Add"
+    },
+    {
+        "title": "Idli",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": " https://bollywood-corner.com/themes/leo_poco/assets/img/modules/appagebuilder/images/idli.png",
+        "button": "Add"
+    },
+    {
+        "title": "Dhahi Vada",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": " https://shrivanakkam.com/wp-content/uploads/2023/04/dahi-vada.png",
+        "button": "Add"
+    },
+    {
+        "title": "Momos",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": "https://static.vecteezy.com/system/resources/previews/039/113/481/non_2x/ai-generated-momos-isolated-on-background-free-png.png ",
+        "button": "Add"
+    },
+    {
+        "title": "sandwich",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": "https://pngimg.com/uploads/sandwich/sandwich_PNG12.png ",
+        "button": "Add"
+    },
+    {
+        "title": "Veg roll",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": " http://www.banhminhonhoa.ca/wp-content/uploads/2021/10/vegetable-spring-roll.png",
+        "button": "Add"
+    },
+    {
+        "title": "Icecream",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": " https://static.vecteezy.com/system/resources/previews/024/108/126/original/tasty-colorful-ice-cream-cup-with-syrups-and-fruits-on-transparent-background-png.png",
+        "button": "Add"
+    },
+    {
+        "title": "Cold coffee",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": "https://www.pngall.com/wp-content/uploads/4/Starbucks-Coffee-Transparent.png",
+        "button": "Add"
+    },
+    {
+        "title": "Sev tamator",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": " https://www.satvikroti.com/public/images/menu/sevtamatarsabji.png",
+        "button": "Add"
+    },
+    {
+        "title": "Mix veg",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": "https://masalaking.co.nz/wp-content/uploads/2021/02/3-new-1.png ",
+        "button": "Add"
+    },
+    {
+        "title": "Red sous Pasta",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": "https://static.vecteezy.com/system/resources/previews/021/344/437/original/pasta-isolated-on-a-transparent-background-png.png ",
+        "button": "Add"
+    },
+    {
+        "title": "Khaman Dhokala",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": "https://modernasopalav.com/assets/images/recipe-image/nylon-khaman.png ",
+        "button": "Add"
+    },
+    {
+        "title": "Misal",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": " https://www.nicepng.com/png/full/256-2564363_nimbu-mirchi-png.png",
+        "button": "Add"
+    },
+    {
+        "title": "Kaju kari",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": "http://badusindianfeast.co.uk/wp-content/uploads/2015/06/Badus-Indian-Feast-Curry.png ",
+        "button": "Add"
+    },
+    {
+        "title": "Burger",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": "https://www.pngplay.com/wp-content/uploads/2/Burger-Transparent-PNG.png ",
+        "button": "Add"
+    },
+    {
+        "title": "shrikhand",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": "https://foodnosher.com/wp-content/uploads/2022/08/shrikand.png ",
+        "button": "Add"
+    },
+    {
+        "title": "Stuffed damaalu",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": " http://www.pngall.com/wp-content/uploads/2/Healthy-Meal.png",
+        "button": "Add"
+    },
+    {
+        "title": "Ras malai",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": " https://static.vecteezy.com/system/resources/previews/036/289/633/original/ai-generated-ras-malai-on-plate-with-transparent-background-ai-png.png",
+        "button": "Add"
+    },
+    {
+        "title": "Gulab jamun",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": " https://static.vecteezy.com/system/resources/previews/039/111/419/non_2x/ai-generated-gulab-jamun-isolated-on-background-free-png.png",
+        "button": "Add"
+    },
+    {
+        "title": "Pav bhaji",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": " https://5.imimg.com/data5/SELLER/Default/2022/9/BA/JW/VP/8795897/pav-bhaji-masala-500x500.png",
+        "button": "Add"
+    },
+    {
+        "title": "Omlet",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": "https://purepng.com/public/uploads/medium/purepng.com-omeletteomeletteeggscrambled-eggomelet-14115280227601zahk.png ",
+        "button": "Add"
+    },
+    {
+        "title": "Paneer pakora",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": " https://www.currytandoor.cz/images/eshop/product/009.png",
+        "button": "Add"
+    },
+    {
+        "title": "Sabudana kichari",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": "https://spiceupthecurry.com/wp-content/uploads/2020/09/sabudana-khichdi-2.jpg ",
+        "button": "Add"
+    },
+    {
+        "title": "Rasgula",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": "https://www.pngkey.com/png/full/63-634356_along-with-a-rigid-adherence-to-traditional-items.png ",
+        "button": "Add"
+    },
+    {
+        "title": "Egg bhurji",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": " https://uploads-ssl.webflow.com/6305f7d600c9842969920a58/63c77d96de9eb34741c1c869_poHzuf5Wbv6vnhevjXqMkKm5w49X2ZkvC_aVoPS0bgY.png",
+        "button": "Add"
+    },
+    {
+        "title": "Dabeli",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": "https://chaiwala.pl/wp-content/uploads/2021/09/dabeli-Y74H67V-768x664.png ",
+        "button": "Add"
+    },
+    {
+        "title": "Bengan Bharta ",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": "https://static.pyszne.pl/images/restaurants/pl/O7503O5N/products/baingan_bharta.png ",
+        "button": "Add"
+    },
+    {
+        "title": "Ghevar",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": "https://lakshyasweets.com/img/0033272_laxmi-misthan-bhandar-lmb-special-paneer-ghewar_300.png ",
+        "button": "Add"
+    },
+    {
+        "title": "Fryed Khikan",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": "$25.00",
+        "img": " https://freepngimg.com/thumb/chicken/22064-6-cooked-chicken-transparent-image.png",
+        "button": "Add"
+    },
+    {
+        "title": " Fruits salad",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": "https://www.pngarts.com/files/2/Fruit-Salad-PNG-Image-Transparent.png ",
+        "button": "Add"
+    },
+    {
+        "title": "cake",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": " https://purepng.com/public/uploads/large/purepng.com-cakefood-chocolate-slice-cake-sweet-tasty-piece-eat-delicious-9415246166160hbsv.png",
+        "button": "Add"
+    },
+    {
+        "title": "Kaju-Katli",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": "https://pnghq.com/wp-content/uploads/2023/02/kaju-katli-anand-sweets-png-1465-768x603.png",
+        "button": "Add"
+    },
+    {
+        "title": "Modak",
+        "info": "No matter what is happening in your life, you always offer Dish.",
+        "rate": "🌟🌟🌟🌟",
+        "p": " $25.00",
+        "img": "https://www.nicepng.com/png/full/852-8529886_mad-over-modak-modak.png",
+        "button": "Add"
+    }
+]
